@@ -1,5 +1,5 @@
 {
-  "name": "BoldText",
+  "name": "bold-text",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,8 +7,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.8.3",
-    "react-native": "0.59.8"
+    "react": "16.8.6",
+    "react-native": "0.60.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
